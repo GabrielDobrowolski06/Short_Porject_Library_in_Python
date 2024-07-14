@@ -47,7 +47,6 @@ The remove_book function allows the user to remove a book from the library. The 
 ##### main Function - Exiting the Program
 The main function also contains logic for exiting the program. If the user chooses to exit the program, the function checks if all books have been returned. If any book is still borrowed, an appropriate message is displayed and the program exits. If all books are available, a different message is displayed and the program also exits.
 
-Summary
-This project illustrates basic techniques for managing data in Python, such as using lists and dictionaries, and basic input-output operations. The application allows users to interact with the book library through the console, which is useful for learning the basics of programming and data management. The code is modular and easy to understand, which makes it easier to further develop
 
-TODO
+##### Summary
+This project illustrates basic techniques for managing data in Python, such as using lists and dictionaries, and basic input-output operations. The application allows users to interact with the book library through the console, which is useful for learning the basics of programming and data management. The code is modular and easy to understand, which makes it easier to further develop
