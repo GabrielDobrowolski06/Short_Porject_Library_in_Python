@@ -4,7 +4,7 @@ Mine project in python (project.py -> code, test_project.py -> code which can ch
 ### BOOK LIBRARY IN PYTHON
 #### Description:
 
-##### Project Goal
+###### Project Goal
 The goal of this project is to create a simple console application to manage a book library. The application allows users to add new books to the library, display the list of available books, borrow and return books, remove books from the library, and exit the program.
 
 
